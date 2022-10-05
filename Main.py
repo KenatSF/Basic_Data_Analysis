@@ -16,8 +16,8 @@ nombres_columns = base.columns.tolist()
 print(nombres_columns)
 ##
 ### Número de columnas
-n_columns = len(nombres_columns)
-print(n_columns)
+#n_columns = len(nombres_columns)
+#print(n_columns)
 ##
 ### Accesar a los valors del dataframe
 ##
@@ -25,9 +25,9 @@ print(n_columns)
 estructura = base.describe()
 
 
-base.iloc[0,0:1]
-print(estructura.loc[:, 'SALES'])
-print(estructura.columns.tolist())
+#base.iloc[0,0:1]
+#print(estructura.loc[:, 'SALES'])
+#print(estructura.columns.tolist())
 ##
 ### Existen datos faltantes?
 ##for i in range(n_columns):
@@ -63,7 +63,7 @@ print(estructura.columns.tolist())
 ##plt.show()
 ##
 ### Ventas superiores a $12,000
-print(base.loc[base.loc[:, 'SALES'] > 12000])
+#print(base.loc[base.loc[:, 'SALES'] > 12000])
 ##
 ##
 ### Quitar los 00:00 de la columna ORDERDATE
