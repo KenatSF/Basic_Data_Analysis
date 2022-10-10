@@ -53,7 +53,7 @@ def run():
     # Testing the model
     print("Logistic Model Score: {}".format(logModel.score(X_test, Y_test)))
 
-
+    # A perfect score? Apparently, Yes
 
 
 
