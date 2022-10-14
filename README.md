@@ -73,4 +73,4 @@ El modelo esta en: **logisticModel.py**
 
 La probabilidad de predecir correctamente si va a exitir
 una cancelación del pedido es del 100%. Claramente existe overfitting, pero dados los pocos casos (60 observaciones) en los cuáles los pedidos fueron cancelados en esta base
-de datos. Entonces podemos considerar a este modelo como acepatable.
+de datos. Entonces podemos considerar a este modelo como aceptable.
