@@ -12,12 +12,12 @@
 
 * Base de datos de ventas: "sales_data_sample.csv"
 
-
+![]()
 ## **Ventas globales**
 
 **Ventas globales (2004-2005):**
 
-- imagen de la serie de tiempo global
+![](https://github.com/KenatSF/Basic_Data_Analysis/blob/main/images/sales.png)
 
 Se ajusto un modelo **SARIMA(0,0,0)(0,1,0)[12]** con lo que se pudo estimar las ventas del próximo año.
 
@@ -25,7 +25,7 @@ Nota: Todos los supuestos del modelo se cumplieron, excepto el supuesto de Norma
 
 **Predicciones:**
 
-- imagen de la serie de tiempo global con su forecast
+![](https://github.com/KenatSF/Basic_Data_Analysis/blob/main/images/sales_with_predictions.png)
 
 
 ## **Ventas por territorios**
@@ -34,30 +34,30 @@ Nota: Todos los supuestos del modelo se cumplieron, excepto el supuesto de Norma
 
 **Ventas (2004-2005):**
 
-- imagen de la serie de tiempo emea
+![](https://github.com/KenatSF/Basic_Data_Analysis/blob/main/images/emea.png)
 
 **Predicciones:**
 
-- imagen de la serie de tiempo emea con su forecast
+![](https://github.com/KenatSF/Basic_Data_Analysis/blob/main/images/emea_predictions.png)
 
 ### **NorthAmerica**
 
 **Ventas (2004-2005):**
 
-- imagen de la serie de tiempo northamerica
+![](https://github.com/KenatSF/Basic_Data_Analysis/blob/main/images/northamerica.png)
 
 **Predicciones:**
 
-- imagen de la serie de tiempo emea con su northamerica
+![](https://github.com/KenatSF/Basic_Data_Analysis/blob/main/images/northamerica_predictions.png)
 
 **Nota:** Para los territorios de **Asia** y **Australia** no se tienen suficientes datos para ajustar un modelo SARIMA aceptable.
 
 ## **Línea de Producto por territorios: EMEA, NorthAmerica, Australia & Asia**
 
-- imagen 1
-- imagen 2
-- imagen 3
-- imagen 4
+![](https://github.com/KenatSF/Basic_Data_Analysis/blob/main/images/emea_product_line.png)
+![](https://github.com/KenatSF/Basic_Data_Analysis/blob/main/images/northamerica_product_line.png)
+![](https://github.com/KenatSF/Basic_Data_Analysis/blob/main/images/australia_product_line.png)
+![](https://github.com/KenatSF/Basic_Data_Analysis/blob/main/images/asia_product_line.png)
 
 Un primer análisis que podríamos hacer, es destacar la gran cantidad de **autos clásicos** que se venden en todos los respectivos territorios. Además, 
 las ventas relativas en Asia de los **camiones y autobuses** quedan en segundo lugar. Lo cúal podría indicar el alto desarrollo industrial que esa
