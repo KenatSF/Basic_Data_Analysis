@@ -66,7 +66,7 @@ zona tenía enntre los años 2004-2005, y que hoy en día aún tiene.
 ## **Los mejores clientes del negocio.**
 ![](https://github.com/KenatSF/Basic_Data_Analysis/blob/main/images/best_customers.png)
 
-## **Localización física de las tiendas.**
+## **Localización física de las tiendas y el tamaño de sus ventas.**
 ![](https://github.com/KenatSF/Basic_Data_Analysis/blob/main/images/sales_map.png)
 
 ## **Modelo logístico**
