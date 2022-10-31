@@ -63,6 +63,11 @@ Un primer análisis que podríamos hacer, es destacar la gran cantidad de **auto
 las ventas relativas en Asia de los **camiones y autobuses** quedan en segundo lugar. Lo cúal podría indicar el alto desarrollo industrial que esa
 zona tenía enntre los años 2004-2005, y que hoy en día aún tiene.
 
+## **Los mejores clientes del negocio.**
+![](https://github.com/KenatSF/Basic_Data_Analysis/blob/main/images/best_customers.png)
+
+## **Localización física de las tiendas.**
+![](https://github.com/KenatSF/Basic_Data_Analysis/blob/main/images/sales_map.png)
 
 ## **Modelo logístico**
 
